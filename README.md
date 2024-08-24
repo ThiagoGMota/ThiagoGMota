@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThiagoGMota
 - 👀 I’m interested in learn more about programming and get a job in the field
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
