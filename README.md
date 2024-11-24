@@ -35,14 +35,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThiagoGMota/ThiagoGMota/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ThiagoGMota/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ThiagoGMota/ThiagoGMota/output/snake.svg" alt="Snake animation" />
 
 ###
